@@ -1,0 +1,1 @@
+forked from [react-storybook-addon-info](https://github.com/storybooks/react-storybook-addon-info)
